@@ -1,0 +1,12 @@
+$main-font: 'Open Sans', sans-serif;
+$alternative-font: 'Montserrat', 'Roboto', sans-serif;
+
+$color-main: #3641B2;
+$color-secondary: #FFD847;
+
+$color-background: #4d4d4f;
+$color-foreground: #eee;
+
+@mixin box-shadow() {
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.4);
+}

@@ -9,6 +9,10 @@ Para contribuir com projetos, basta baixar este repositório e começar a mexer 
 Para facilitar a organização, crie uma pasta com o seu nome ou o nome do assunto sobre o qual está estudando ou deseja desenvolver algo.
 Dentro dessa pasta, crie um arquivo `README.md` _(como este)_ e indique instruções de como usar o básico do seu projeto.
 
+## Por que um repositório git?
+
+O git é uma plataforma muito utilizada pra colaboração de código. Com o git é possível que todos mexam simultaneamente e está aberto para que os desenvolvedores vejam o que os outros estão fazendo.
+
 ## Links úteis
 
 ### Sites de estudos

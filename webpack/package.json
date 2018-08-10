@@ -1,0 +1,37 @@
+{
+	"name": "pacotes-npm",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack",
+		"dev": "webpack --env.development",
+		"prod": "webpack --env.production"
+	},
+	"author": "Matias G H",
+	"license": "ISC",
+	"dependencies": {
+		"@fortawesome/fontawesome": "^1.1.8",
+		"@fortawesome/fontawesome-free-brands": "^5.0.13",
+		"@fortawesome/fontawesome-free-regular": "^5.0.13",
+		"@fortawesome/fontawesome-free-solid": "^5.0.13",
+		"@fortawesome/fontawesome-free-webfonts": "^1.0.9",
+		"babel-polyfill": "^6.26.0",
+		"bootstrap": "^4.1.1",
+		"css-loader": "^0.28.11",
+		"file-loader": "^1.1.11",
+		"jquery": "^3.3.1",
+		"mini-css-extract-plugin": "^0.4.0",
+		"node-sass": "^4.9.0",
+		"path": "^0.12.7",
+		"resolve-url-loader": "^2.3.0",
+		"sass-loader": "^7.0.1",
+		"url-loader": "^1.0.1",
+		"vue": "^2.5.16",
+		"vue-loader": "^15.2.2",
+		"vue-style-loader": "^4.1.0",
+		"vue-template-compiler": "^2.5.16",
+		"webpack": "^4.10.2",
+		"webpack-cli": "^2.1.4"
+	}
+}

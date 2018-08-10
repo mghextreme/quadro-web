@@ -1,0 +1,74 @@
+/* ################ RESET ################ */
+
+* {
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	text-align: inherit;
+	background-color: transparent;
+	color: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	line-height: 1.5em;
+	text-align: inherit;
+}
+
+@-ms-viewport { width: device-width; }
+
+ul, ol, li, div, form, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, label, input, select, textarea, blockquote, img, textarea, p { display: block; box-sizing: border-box; }
+
+ul, ol, li {
+	list-style: none;
+	margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p { margin: 0 auto; }
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+a:hover {
+	text-decoration: none;
+	color: inherit;
+}
+
+b, strong { font-weight: bold; }
+
+i, em { font-style: italic; }
+
+img { margin: 0 auto; border: 0; }
+
+blockquote, q { quotes: none; }
+blockquote::before, blockquote::after, q::before, q::after { content: ''; content: none; }
+
+button,
+button.fa,
+input[type=submit],
+select,
+a[href] { cursor: pointer; }
+
+code, kbd, pre, samp {
+	font-family: monospace;
+	font-size: 1em;
+}
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+html { overflow-x: hidden; }
+
+.fa,
+.fas,
+.far,
+.fal {
+	font-family: 'Font Awesome 5 Free';
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	cursor: inherit;
+}
